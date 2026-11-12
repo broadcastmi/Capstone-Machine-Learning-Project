@@ -1,3 +1,4 @@
+# Capstone Machine Learning Project
 Using Python and Jupyter Notebook, I worked with a public transportation trips dataset to explore how passengers use different transportation modes and identify meaningful patterns in the data.
 
 My project involved:
